@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (pl_szkielet_04_win.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main_file.cpp
+D:\ATANK\tank_project\main_file.cpp(21,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ATANK\tank_project\main_file.cpp(22,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ATANK\tank_project\main_file.cpp(171,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ATANK\tank_project\main_file.cpp(193,47): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\ATANK\tank_project\main_file.cpp(195,45): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\ATANK\tank_project\main_file.cpp(198,83): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ATANK\tank_project\main_file.cpp(198,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ATANK\tank_project\main_file.cpp(201,47): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\ATANK\tank_project\main_file.cpp(210,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\ATANK\tank_project\main_file.cpp(223,77): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\ATANK\tank_project\main_file.cpp(225,79): warning C4305: 'argument': truncation from 'double' to 'float'
+  staticmodel.cpp
+D:\ATANK\tank_project\staticmodel.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+D:\ATANK\tank_project\staticmodel.cpp(47,21): warning C4018: '<': signed/unsigned mismatch
+D:\ATANK\tank_project\staticmodel.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+  tank.cpp
+D:\ATANK\tank_project\tank.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+D:\ATANK\tank_project\tank.cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+D:\ATANK\tank_project\tank.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  pl_szkielet_04_win.vcxproj -> D:\ATANK\tank_project\Debug\tank_project.exe

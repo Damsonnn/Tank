@@ -1,0 +1,2 @@
+D:\ATANK\pl_szkielet_04_win\Debug\tank_project.exe
+D:\ATANK\tank_project\Debug\tank_project.exe

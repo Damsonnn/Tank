@@ -1,0 +1,62 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl tank_body_mat
+Ns 56.806129
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\mrklo\\Downloads\\tank_1001_diff.png
+map_Ks C:\\Users\\mrklo\\OneDrive\\Pulpit\\textures\\tank_1001_spec.png
+
+newmtl tank_border_mat
+Ns 56.806129
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\mrklo\\Downloads\\tank_1001_diff.png
+map_Ks C:\\Users\\mrklo\\OneDrive\\Pulpit\\textures\\tank_1001_spec.png
+
+newmtl tank_tower_mat
+Ns 56.806129
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\mrklo\\Downloads\\tank_1001_diff.png
+map_Ks C:\\Users\\mrklo\\OneDrive\\Pulpit\\textures\\tank_1001_spec.png
+
+newmtl track_mat
+Ns 56.806129
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\mrklo\\Downloads\\tank_1001_diff.png
+map_Ks C:\\Users\\mrklo\\OneDrive\\Pulpit\\textures\\tank_1001_spec.png
+
+newmtl wheels_mat
+Ns 56.806129
+Ka 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\mrklo\\Downloads\\tank_1001_diff.png
+map_Ks C:\\Users\\mrklo\\OneDrive\\Pulpit\\textures\\tank_1001_spec.png
